@@ -1,0 +1,44 @@
+html
+{
+    background-color:#EBF4FA;
+    background-size: 5500px 5500px;
+}
+
+
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(https://users.metropolia.fi/~michaejc/mycv/img/bluebackground.jpg);
+    background-size: 5000px 5000px;
+}
+
+
+#contacts
+{
+    text-indent:-20px; 
+    margin-left:20px;
+}
+
+.progress {background: rgba(245, 245, 245, 1); background: -webkit-linear-gradient(top, rgba(144, 165, 235, 1) 0%, rgba(245, 245, 245, 1) 100%); background: linear-gradient(to bottom, rgba(144, 165, 235, 1) 0%, rgba(245, 245, 245, 1) 100%); border: 2px solid rgba(245, 245, 245, 1); border-radius: 7px; height: 26px;}
+.progress-bar {background: rgba(66, 139, 202, 1); background: -webkit-linear-gradient(top, rgba(12, 36, 56, 1) 0%, rgba(66, 139, 202, 1) 100%); background: linear-gradient(to bottom, rgba(12, 36, 56, 1) 0%, rgba(66, 139, 202, 1) 100%);}
+
+#achievements
+{
+
+    text-indent:-20px; 
+    margin-left:20px;
+}
+
+.jumbotron
+{
+    background-color: #EBF4FA;
+}
+
+.text-responsive {
+    font-size: calc(100% + 1vw + 1vh);
+  }
+
+li
+{
+    list-style: none;
+}
