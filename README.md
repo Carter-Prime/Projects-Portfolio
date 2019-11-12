@@ -2,7 +2,7 @@
 A collection of Projects to showcase my coding skills
 
 <h1>00 Heads or Tails </h1>
-<p> My first university assignment using JavaScript. I was tasked with creating the code to play a game of Heads or Tails prompting the user for an input. <br>
+<p> My first university assignment using JavaScript. I was tasked with creating the code to play a game of Heads or Tails.<br>
 
 The minimum requirements were to promt the user for a Heads or Tails decision, then based on that to check the choice against a random toss of a coin. The result would be counted and tallied against the answer along with how many times the user was correct. <br>
 
