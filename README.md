@@ -1,5 +1,5 @@
-# Projects-Portfolio
-A collection of Projects to showcase my coding skills
+# Orientation Projects
+A collection of Projects from my Orientation to IT systems module
 
 <h1>00 Heads or Tails </h1>
 <p> My first university assignment using JavaScript. I was tasked with creating the code to play a game of Heads or Tails.<br>
